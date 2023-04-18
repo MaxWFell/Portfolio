@@ -88,3 +88,4 @@ const VanillaTilt = class {
     this.onMouseLeaveBind = this.onMouseLeave.bind(this);
     this.onWindowResizeBind = this.onWindowResize.bind(this);
     this.onDeviceOrientationBind
+  }
