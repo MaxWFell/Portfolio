@@ -1,6 +1,4 @@
 import Head from "next/head";
-import Header from "@components/Header";
-import Footer from "@components/Footer";
 import heroImage from "../images/hero.png";
 import selfieImage from "../images/selfie.png";
 import notesProjectImage from "../images/project-notes.png";
